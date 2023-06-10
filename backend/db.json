@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "William F",
+      "email": "william@gmail.com",
+      "age": 30,
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Mailliw S",
+      "email": "mailliw@gmail.com",
+      "age": 22
+    },
+    {
+      "id": 4,
+      "name": "Appapiro P",
+      "email": "appapiro@gmail.com",
+      "age": 19
+    },
+    {
+      "id": 0.8230837961873159,
+      "name": "Agammemnon",
+      "email": "agammemnon@gmail.com",
+      "age": 30
+    }
+  ],
+  "login": [
+    {
+      "email": "william.f@mail.com",
+      "password": "8n7b9m",
+      "id": 1
+    }
+  ]
+}
